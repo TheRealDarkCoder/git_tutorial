@@ -3,4 +3,4 @@ def modular_difference(x, y):
         return x - y
     return y - x
 
-print(modular_difference(100, 5))
+print(modular_difference(100, 100))
